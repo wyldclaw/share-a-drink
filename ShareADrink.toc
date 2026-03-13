@@ -1,0 +1,9 @@
+## Interface: 120001
+## Title: Share a Drink
+## Category: Achievements
+## Notes: Show achievement progress on tooltips for |cFFFFFF00[Share a Drink]|r when mousing over players in the |c00BFF3FFArcantina|r
+## Author: Wyldclaw-Lightbringer
+## Version: v1.0
+## IconTexture: 135999
+
+ShareADrink.lua
