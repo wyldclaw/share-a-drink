@@ -23,7 +23,7 @@ local criteria = {
     ["Vulpera"] = 108592,
     ["Pandaren"] = 108593,
     ["Dracthyr"] = 108594,
-    ["Earthen"] = 108595,
+    ["EarthenDwarf"] = 108595, -- Earthen
     ["Harronir"] = 108596 -- Haranir
 }
 
